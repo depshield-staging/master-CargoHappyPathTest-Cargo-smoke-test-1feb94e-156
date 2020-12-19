@@ -1,2 +1,3 @@
 # master-CargoHappyPathTest-Cargo-smoke-test-1feb94e-156
-the description
+
+![depshield](https://staging.depshield.sonatype.org/badges/depshield-staging/master-CargoHappyPathTest-Cargo-smoke-test-1feb94e-156/depshield.svg)
